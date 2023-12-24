@@ -7,6 +7,7 @@ client = MongoClient(Connection_string)
 db = client.dbsparta
 
 # password db = maulana20065
+# connection = mongodb+srv://localhost:maulana20065@cluster0.ewovbxv.mongodb.net/?retryWrites=true&w=majority
 
 app = Flask(__name__)
 
