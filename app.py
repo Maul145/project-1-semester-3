@@ -12,6 +12,7 @@ db = client.dbsparta
 
 # password db = maulana20065
 # connection = mongodb+srv://localhost:maulana20065@cluster0.ewovbxv.mongodb.net/?retryWrites=true&w=majority
+# python -m pip install --upgrade pip
 
 app = Flask(__name__)
 
