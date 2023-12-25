@@ -1,6 +1,6 @@
 set -eu
 
-export PYTHONUNBUFF=true
+export PYTHONUNBUFFERED=true
 
 VIRTUALENV=.data/venv
 
